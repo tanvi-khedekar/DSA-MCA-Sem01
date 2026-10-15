@@ -1,3 +1,5 @@
+# 06-10-2026
+
 #count number of nodes in singly linked list
 
 class Node:

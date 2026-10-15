@@ -1,3 +1,5 @@
+# 06-10-2026
+
 #creation of singly linked list and alternate display
 
 class Node:
