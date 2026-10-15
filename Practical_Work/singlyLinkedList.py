@@ -1,3 +1,4 @@
+# 10-10-2026 Practice assignment
 
 class Node:
     def __init__(self, data):
